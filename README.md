@@ -1,2 +1,2 @@
-Boxart for supermuseum v2 - http://supermuseum.netlify.app
+Boxart for supermuseum v2 - https://supermuseum.cc
 tags for cachebust!
